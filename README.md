@@ -1,4 +1,6 @@
-Exercício para iniciantes em programação: Fazer uma calculadora com html, css e javascript. 
+Exercício para iniciantes em programação: Fazer uma calculadora com html, css e javascript. A calculadora terá a seguinte aparência:
+
+<img src="https://imgur.com/a/Ti9dm7j"/>
 
 Faça o exercício comigo, na forma de vídeo aula, clicando no botão abaixo: 
 
